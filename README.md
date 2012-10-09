@@ -21,4 +21,5 @@ Fork & send a pull with decent commit messages
 The guys who developed [leaflet-providers](https://github.com/seelmann/leaflet-providers)
 
 [Stefan Seelmann](https://github.com/seelmann)
+
 [brunob](https://github.com/brunob)
