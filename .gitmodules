@@ -1,0 +1,4 @@
+[submodule "src/leaflet-providers"]
+	path = src/leaflet-providers
+	url = https://github.com/seelmann/leaflet-providers.git
+	ignore = dirty
